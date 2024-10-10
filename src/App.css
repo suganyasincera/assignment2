@@ -1,4 +1,6 @@
-
+.App {
+  text-align: center;
+}
 
 .App-logo {
   height: 40vmin;
@@ -24,27 +26,6 @@
 
 .App-link {
   color: #61dafb;
-}
-/* index.css */
-.App {
-  text-align: center;
-}
-
-.product {
-  border: 1px solid #ddd;
-  padding: 10px;
-  margin: 10px;
-  display: inline-block;
-}
-
-button {
-  margin: 5px;
-}
-
-.cart, .wishlist {
-  margin-top: 20px;
-  padding: 10px;
-  border: 1px solid #ddd;
 }
 
 @keyframes App-logo-spin {
