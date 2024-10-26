@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/assignment2/static/css/main.b9359137.css",
+    "main.js": "/assignment2/static/js/main.ed95e3bc.js",
+    "static/js/453.6c7ab34e.chunk.js": "/assignment2/static/js/453.6c7ab34e.chunk.js",
+    "static/media/fa-solid-900.ttf": "/assignment2/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/assignment2/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/assignment2/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/assignment2/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/image.png": "/assignment2/static/media/image.176be63ae5390434d6ee.png",
+    "static/media/fa-regular-400.ttf": "/assignment2/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/shirt.jpg": "/assignment2/static/media/shirt.358ece104170bde33f6e.jpg",
+    "static/media/fa-regular-400.woff2": "/assignment2/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/assignment2/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/assignment2/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/assignment2/index.html",
+    "main.b9359137.css.map": "/assignment2/static/css/main.b9359137.css.map",
+    "main.ed95e3bc.js.map": "/assignment2/static/js/main.ed95e3bc.js.map",
+    "453.6c7ab34e.chunk.js.map": "/assignment2/static/js/453.6c7ab34e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9359137.css",
+    "static/js/main.ed95e3bc.js"
+  ]
+}
