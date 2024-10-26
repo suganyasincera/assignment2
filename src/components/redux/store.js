@@ -1,25 +1,4 @@
 import {configureStore} from '@reduxjs/toolkit';
-
-import FormReducer from './formslice';
-
-
-  export const store = configureStore({
-  reducer: {
-    form:FormReducer,
-
-  },
-  middleware: getDefaultMiddleware =>
-    getDefaultMiddleware({
-      serializableCheck: false
-    })
-
-})
-
-
-
-
-
-import {configureStore} from '@reduxjs/toolkit';
 import { persistStore, persistReducer } from 'redux-persist';
 import storage from 'redux-persist/lib/storage'; // defaults to localStorage for web
 import { combineReducers } from 'redux';
